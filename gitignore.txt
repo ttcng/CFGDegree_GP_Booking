@@ -1,0 +1,2 @@
+.gitignore is used to tell git which files it should ignore
+The purpose is to ensure that certain files not tracked by git continue to be untracked 
